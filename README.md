@@ -103,6 +103,7 @@ pip install pennylane pandas scikit-learn matplotlib
 
 
 🚀 How to Run (Step-by-step)
+
 Step 1: Create dataset
 python make_nasa_power_dataset_2022_2026.py
 

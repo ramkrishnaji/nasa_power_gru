@@ -94,12 +94,13 @@ Generate them using:
 
 ---
 ### 1) Create environment (recommended)
-```bash
 conda create -n qml_gpu python=3.12 -y
 conda activate qml_gpu
-2) Install dependencies
+### 2) Install dependencies
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 pip install pennylane pandas scikit-learn matplotlib
+
+
 
 🚀 How to Run (Step-by-step)
 Step 1: Create dataset
